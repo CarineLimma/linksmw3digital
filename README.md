@@ -82,7 +82,7 @@ Estudante de Engenharia de Software | Desenvolvedora Full Stack
 
 Fundadora da **MW3 Digital**, com foco no desenvolvimento de sites, sistemas e soluções digitais.
 
-**GitHub:** https://github.com/CarineLimma
+
 
 **Portfólio:** https://carinelimadev.netlify.app
 
